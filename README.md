@@ -3,7 +3,7 @@
 
 Workspace is powerful Online Booking System which is developed in ASP.NET Core 2 MVC, EF (Entity Framework), Web API, Bootstrap, jQuery, Datatables with responsive Adminlte template. Workspace helps to manage your Meeting Room Booking, Car Booking and Manage Personal Agenda, Appointment and Scheduling quick and easy. Workspace has many features such Dashboard Chart & Graph, Roster Meeting Room, Roster Car, Roster General Equipments, Booking Meeting Room, Booking Car, Booking General Equipments, Personal Agenda, Config Meeting Room (With color categorization), Config Car (With color categorization), Config General Equipment (With color categorization), User Management, Password Management, Role Management, User Profile Management (Upload profile picture), Print Roster, Resource Groups Style Schedule / Calendar, Color Coding Categorization etc. The product come with full source code. You can customize the source code and use it as starter project template. Perfect for those who wants learn Microsoft latest modern technology stack, ASP.Net Core combine with bootstrap, jQuery and selected plugin such as chart.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2018/01/booking-scheduling-software-dashboard.jpg">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738454871_6f0443872e7cfbfb298a.webp">
 
 <b>Meeting Room Booking & Scheduling Software has the following key features:</b>
 
@@ -24,4 +24,4 @@ Workspace is powerful Online Booking System which is developed in ASP.NET Core 2
 <li>Color Coding Categorization</li>
 </ul>
 <b>More details and download link:</b>
-<b>https://www.aspscriptsonline.com/product/meeting-room-booking-software/</b>
+<b>https://www.aspscriptsonline.com/product/asp.net-core-meeting-room-booking-and-scheduling</b>
